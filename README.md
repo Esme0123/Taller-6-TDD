@@ -230,9 +230,9 @@ Como parte de la entrega del taller se debe adjuntar un **PDF explicativo** que 
 
 ## 9. Autor
 
-**Nombre:** _Tu Nombre_
-**Curso:** _Nombre del curso_
-**Institución:** _Nombre de la institución_
+**Nombre:** Esmeralda Medina
+**Curso:** Gestión de calidad
+**Institución:** UCB
 **Fecha:** 2026
 
 ---
